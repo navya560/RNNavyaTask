@@ -1,0 +1,274 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:1:1-28:12
+MERGED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:1:1-28:12
+MERGED from [:react-native-navigation] C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\node_modules\react-native-navigation\android\app\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-20:12
+MERGED from [:react-native-splash-screen] C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [com.facebook.react:react-native:0.59.10] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\react-native-0.59.10.aar\55502b51a0f8571b54f7352bb1ee3341\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\a1a49c12cfa8089339238023ed0e5c58\AndroidManifest.xml:1:1-3:12
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\ahbottomnavigation-2.0.6.aar\556c366a94114af1805f0f8e632b42dc\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\ba4fdd5eb946826e428c0ab8401d585a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\material-menu-toolbar-1.5.4.aar\a1635ac0b26963fd52ebd58cd2544b16\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\ba7bfbb4eac85bb4f4a5c960a77deae7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\904300882e6f392da4df3c2d8f1c0113\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\121394062cfc05d133d5527d1d3f3d58\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\3031d1f1a77510b302c2590bc693b3a3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\0b1e9c838d2554336e8c1440e8a81d94\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\9030a2dc7f9db065ada829dff8b4dbba\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\00688a0872edf0c29edba198db633361\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\904d9bf98973aa91301d0d58185a1262\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\efad93d7b7a63c1de4d80b9a4ad86244\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\5537ef78d3050ed19dc83d92a655af4c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\6eb9f7eb205ce42431e4b4029c331321\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\f399424aab3c7e3e51703945138f47b8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\0faf0e174cf721c7afb23eea03d512db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\99e5eaa8688575db5c92ca3f0c1f449d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\0adb8c18bb08c3689988b3f56860b21d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\5806c1f3d71375719df6b61709c4e337\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\c5669db96507c91d7526aa520357d97c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4cea90763ee4f1355840e17d5c8d11c6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\dcdf32ffa8ceb8ca75fb3a92147a2ceb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\4ebaf1a238e664179f525ae50f49a90c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\6cded7793a0d19e1b6dcaa7e4ae840c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\d23c3186d8c091a3a105c33bbcd79919\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\7fca388a6c0ddf24eac5cba38cb0d141\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\1dbdef91103151342c45db1b4e7f69db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\678718e2f3c779dc98d8944823c80f43\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\6cb84d3e05b00f23525c2bc6234af63f\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\8b7e320a9024527dedf6f45e7cfcda61\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\dcf4d6939cf42aa9e519ca7bcc5240d0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\669982454d5205a51cc6aacf837fa399\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\6841764a6496fa69b98a7117815a3138\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\d741d8d8a4d6f6eb7d39797c8b1870b9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\7657e971727b4fb93aac4a919d0fad51\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\0d69b50e7c42e440e3b9e843b71a98b8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b456da699bebd12a60c43010732a0e58\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ae26c49dc8c072771b56eda81f5f8a9a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\42d16b5d8ba2789965faecc66a535dee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\07c2f6b4a6ed47fcbafdc7efa9d2d013\AndroidManifest.xml:2:1-9:12
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\material-menu-1.5.4.aar\4728ab1c58153f53720d7367712bd31a\AndroidManifest.xml:2:1-14:12
+INJECTED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:2:3-28
+		INJECTED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:2:3-28
+		INJECTED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:1:1-28:12
+		INJECTED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:1:1-28:12
+		INJECTED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:6:5-26:19
+MERGED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:6:5-26:19
+MERGED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:6:5-26:19
+MERGED from [:react-native-navigation] C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\node_modules\react-native-navigation\android\app\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-18:19
+MERGED from [:react-native-navigation] C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\node_modules\react-native-navigation\android\app\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-18:19
+MERGED from [:react-native-splash-screen] C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-12:19
+MERGED from [com.facebook.react:react-native:0.59.10] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\react-native-0.59.10.aar\55502b51a0f8571b54f7352bb1ee3341\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.10] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\react-native-0.59.10.aar\55502b51a0f8571b54f7352bb1ee3341\AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\a1a49c12cfa8089339238023ed0e5c58\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\a1a49c12cfa8089339238023ed0e5c58\AndroidManifest.xml:2:3-17
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\ahbottomnavigation-2.0.6.aar\556c366a94114af1805f0f8e632b42dc\AndroidManifest.xml:11:5-20
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\ahbottomnavigation-2.0.6.aar\556c366a94114af1805f0f8e632b42dc\AndroidManifest.xml:11:5-20
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\material-menu-toolbar-1.5.4.aar\a1635ac0b26963fd52ebd58cd2544b16\AndroidManifest.xml:12:5-20
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\material-menu-toolbar-1.5.4.aar\a1635ac0b26963fd52ebd58cd2544b16\AndroidManifest.xml:12:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\00688a0872edf0c29edba198db633361\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\00688a0872edf0c29edba198db633361\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\678718e2f3c779dc98d8944823c80f43\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\678718e2f3c779dc98d8944823c80f43\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\6cb84d3e05b00f23525c2bc6234af63f\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\6cb84d3e05b00f23525c2bc6234af63f\AndroidManifest.xml:22:5-23:19
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\material-menu-1.5.4.aar\4728ab1c58153f53720d7367712bd31a\AndroidManifest.xml:12:5-20
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\material-menu-1.5.4.aar\4728ab1c58153f53720d7367712bd31a\AndroidManifest.xml:12:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\678718e2f3c779dc98d8944823c80f43\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:8:7-39
+		ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\debug\AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:10:7-52
+		ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\debug\AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:9:7-41
+		ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:11:7-34
+		ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\debug\AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:7:7-38
+		ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:7:7-38
+activity#com.tunnelmoney.MainActivity
+ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:23:7-84
+MERGED from [:react-native-navigation] C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\node_modules\react-native-navigation\android\app\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:9-17:40
+MERGED from [:react-native-navigation] C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\node_modules\react-native-navigation\android\app\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from [:react-native-navigation] C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\node_modules\react-native-navigation\android\app\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:23:17-81
+activity#com.reactnativenavigation.controllers.NavigationActivity
+ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:24:7-25:51
+MERGED from [:react-native-navigation] C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\node_modules\react-native-navigation\android\app\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-14:86
+MERGED from [:react-native-navigation] C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\node_modules\react-native-navigation\android\app\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-14:86
+	android:windowSoftInputMode
+		ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:25:9-48
+	android:configChanges
+		ADDED from [:react-native-navigation] C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\node_modules\react-native-navigation\android\app\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-83
+	android:name
+		ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml:24:17-88
+uses-sdk
+INJECTED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-navigation] C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\node_modules\react-native-navigation\android\app\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-navigation] C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\node_modules\react-native-navigation\android\app\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.10] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\react-native-0.59.10.aar\55502b51a0f8571b54f7352bb1ee3341\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.10] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\react-native-0.59.10.aar\55502b51a0f8571b54f7352bb1ee3341\AndroidManifest.xml:7:5-9:41
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\ahbottomnavigation-2.0.6.aar\556c366a94114af1805f0f8e632b42dc\AndroidManifest.xml:7:5-9:41
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\ahbottomnavigation-2.0.6.aar\556c366a94114af1805f0f8e632b42dc\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\ba4fdd5eb946826e428c0ab8401d585a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\ba4fdd5eb946826e428c0ab8401d585a\AndroidManifest.xml:20:5-44
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\material-menu-toolbar-1.5.4.aar\a1635ac0b26963fd52ebd58cd2544b16\AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\material-menu-toolbar-1.5.4.aar\a1635ac0b26963fd52ebd58cd2544b16\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\ba7bfbb4eac85bb4f4a5c960a77deae7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\ba7bfbb4eac85bb4f4a5c960a77deae7\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\904300882e6f392da4df3c2d8f1c0113\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\904300882e6f392da4df3c2d8f1c0113\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\121394062cfc05d133d5527d1d3f3d58\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\121394062cfc05d133d5527d1d3f3d58\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\3031d1f1a77510b302c2590bc693b3a3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\3031d1f1a77510b302c2590bc693b3a3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\0b1e9c838d2554336e8c1440e8a81d94\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\0b1e9c838d2554336e8c1440e8a81d94\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\9030a2dc7f9db065ada829dff8b4dbba\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\9030a2dc7f9db065ada829dff8b4dbba\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\00688a0872edf0c29edba198db633361\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\00688a0872edf0c29edba198db633361\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\904d9bf98973aa91301d0d58185a1262\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\904d9bf98973aa91301d0d58185a1262\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\efad93d7b7a63c1de4d80b9a4ad86244\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\efad93d7b7a63c1de4d80b9a4ad86244\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\5537ef78d3050ed19dc83d92a655af4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\5537ef78d3050ed19dc83d92a655af4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\6eb9f7eb205ce42431e4b4029c331321\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\6eb9f7eb205ce42431e4b4029c331321\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\f399424aab3c7e3e51703945138f47b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\f399424aab3c7e3e51703945138f47b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\0faf0e174cf721c7afb23eea03d512db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\0faf0e174cf721c7afb23eea03d512db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\99e5eaa8688575db5c92ca3f0c1f449d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\99e5eaa8688575db5c92ca3f0c1f449d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\0adb8c18bb08c3689988b3f56860b21d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\0adb8c18bb08c3689988b3f56860b21d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\5806c1f3d71375719df6b61709c4e337\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\5806c1f3d71375719df6b61709c4e337\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\c5669db96507c91d7526aa520357d97c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\c5669db96507c91d7526aa520357d97c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4cea90763ee4f1355840e17d5c8d11c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4cea90763ee4f1355840e17d5c8d11c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\dcdf32ffa8ceb8ca75fb3a92147a2ceb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\dcdf32ffa8ceb8ca75fb3a92147a2ceb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\4ebaf1a238e664179f525ae50f49a90c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\4ebaf1a238e664179f525ae50f49a90c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\6cded7793a0d19e1b6dcaa7e4ae840c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\6cded7793a0d19e1b6dcaa7e4ae840c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\d23c3186d8c091a3a105c33bbcd79919\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\d23c3186d8c091a3a105c33bbcd79919\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\7fca388a6c0ddf24eac5cba38cb0d141\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\7fca388a6c0ddf24eac5cba38cb0d141\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\1dbdef91103151342c45db1b4e7f69db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\1dbdef91103151342c45db1b4e7f69db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\678718e2f3c779dc98d8944823c80f43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\678718e2f3c779dc98d8944823c80f43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\6cb84d3e05b00f23525c2bc6234af63f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\6cb84d3e05b00f23525c2bc6234af63f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\8b7e320a9024527dedf6f45e7cfcda61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\8b7e320a9024527dedf6f45e7cfcda61\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\dcf4d6939cf42aa9e519ca7bcc5240d0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\dcf4d6939cf42aa9e519ca7bcc5240d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\669982454d5205a51cc6aacf837fa399\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\669982454d5205a51cc6aacf837fa399\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\6841764a6496fa69b98a7117815a3138\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\6841764a6496fa69b98a7117815a3138\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\d741d8d8a4d6f6eb7d39797c8b1870b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\d741d8d8a4d6f6eb7d39797c8b1870b9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\7657e971727b4fb93aac4a919d0fad51\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\7657e971727b4fb93aac4a919d0fad51\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\0d69b50e7c42e440e3b9e843b71a98b8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\0d69b50e7c42e440e3b9e843b71a98b8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b456da699bebd12a60c43010732a0e58\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b456da699bebd12a60c43010732a0e58\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ae26c49dc8c072771b56eda81f5f8a9a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ae26c49dc8c072771b56eda81f5f8a9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\42d16b5d8ba2789965faecc66a535dee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\42d16b5d8ba2789965faecc66a535dee\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\07c2f6b4a6ed47fcbafdc7efa9d2d013\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\07c2f6b4a6ed47fcbafdc7efa9d2d013\AndroidManifest.xml:5:5-7:41
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\material-menu-1.5.4.aar\4728ab1c58153f53720d7367712bd31a\AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\TrivenixUser1\.gradle\caches\transforms-1\files-1.1\material-menu-1.5.4.aar\4728ab1c58153f53720d7367712bd31a\AndroidManifest.xml:8:5-10:41
+INJECTED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\debug\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\debug\AndroidManifest.xml:2:1-8:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\debug\AndroidManifest.xml:2:1-8:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\TrivenixUser1\Downloads\tunnelM\tunnelM\android\app\src\debug\AndroidManifest.xml:2:1-8:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
