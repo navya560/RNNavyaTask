@@ -11,15 +11,20 @@ export class InitialPageState extends Component {
     }
   }
   navigateHome() {
-    this.props.dispatch(appActions.loginHome());
+    this.props.navigator.push({
+      navigatorStyle: { navBarHidden: true },
+      screen: "TM.HomeTab1",
+      passProps: {
+      }
+    });
   }
   managePasswordVisibility = () => {
     this.setState({ hidePassword: !this.state.hidePassword });
   };
   render() {
-    const { SectionStyle, ImageStyle, btnLogin,loginText,mainReturn,brandLogo } = pagestyles;
+    const { SectionStyle, ImageStyle, btnLogin } = pagestyles;
     return (
-      <View style={mainReturn}>
+      <View style={{ backgroundColor: 'white', width: '100%', height: '100%' }}>
 
 
         {/* Input Fields Starts */}
@@ -28,7 +33,7 @@ export class InitialPageState extends Component {
 
           {/* Logo block Starts */}
           <View>
-            <Text style={brandLogo}> LOGO</Text>
+            <Text style={{ textAlign: 'center', fontSize: 30, marginBottom: 50 }}> LOGO</Text>
           </View>
           {/* Logo block End */}
           <View style={SectionStyle}>
@@ -59,7 +64,7 @@ export class InitialPageState extends Component {
           </View>
 
           <TouchableOpacity onPress={() => this.navigateHome()} style={btnLogin}>
-            <Text style={loginText}>LOGIN</Text>
+            <Text style={{ textAlign: 'center', fontSize: 18, color: '#fff' }}>LOGIN</Text>
           </TouchableOpacity>
         </View>
 
@@ -106,15 +111,6 @@ const pagestyles = StyleSheet.create({
     alignContent: 'center',
     margin: 15,
     elevation: 3
-  },
-  loginText: {
-    textAlign: 'center', fontSize: 18, color: '#fff'
-  },
-  mainReturn: {
-    backgroundColor: '#fff', width: '100%', height: '100%' 
-  },
-  brandLogo: {
-    textAlign: 'center', fontSize: 30, marginBottom: 50 
   }
 });
 

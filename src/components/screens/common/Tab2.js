@@ -11,7 +11,7 @@ export class Tab2 extends Component {
   render(){
     return(
         <View>
-            <Text style={{textAlign:'center',justifyContent:'center',fontSize:18}}>Tab2</Text>
+            <Text>Tab2</Text>
         </View>
     );
    }

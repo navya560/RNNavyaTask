@@ -4,6 +4,7 @@ import { connect } from 'react-redux';
 const KEYS_TO_FILTERS = ['emp_name', 'emp_department', 'emp_designation', 'emp_address'];
 import SearchInput, { createFilter } from 'react-native-search-filter';
 const MySelf = require("../../../img/employee.png");
+//var AlphabetListView = require('react-native-alphabetlistview');
 
 export class Tab1 extends Component {
   constructor(props) {
@@ -59,9 +60,42 @@ export class Tab1 extends Component {
         "emp_salary": "",
         "emp_photo_path": MySelf
       },
+        // {
+        //     "emp_name": "Ghana",
+        //     "emp_id": "12346",
+        //     "emp_address": "Hyderabad",
+        //     "emp_department": "VP",
+        //     "emp_designation": "Product Management",
+        //     "emp_experience": "Have 10 years of experience in Big Data and Analytics.",
+        //     "emp_salary": "",
+        //     "emp_photo_path": MySelf
+        // },
+        // {
+        //     "emp_name": "Harsha",
+        //     "emp_id": "12347",
+        //     "emp_address": "Hyderabad",
+        //     "emp_department": "VP",
+        //     "emp_designation": "Product Management",
+        //     "emp_experience": "Have 10 years of experience in Big Data and Analytics.",
+        //     "emp_salary": "",
+        //     "emp_photo_path": MySelf
+        // },
+        // {
+        //     "emp_name": "Shabbeer",
+        //     "emp_id": "12348",
+        //     "emp_address": "Hyderabad",
+        //     "emp_department": "VP",
+        //     "emp_designation": "Product Management",
+        //     "emp_experience": "Have 10 years of experience in Big Data and Analytics.",
+        //     "emp_salary": "",
+        //     "emp_photo_path": MySelf
+        // }
       ],
       searchTerm: '',
     }
+  }
+  componentWillMount(){
+    
   }
   navigateNextPage(employeeData) {
     this.props.navigator.push({
@@ -69,6 +103,14 @@ export class Tab1 extends Component {
       screen: "TM.PageOne",
       passProps: {
         employeesData: employeeData
+      }
+    });
+  }
+  navigateLoginPage(){
+    this.props.navigator.push({
+      navigatorStyle: { navBarHidden: true },
+      screen: "TM.WelcomeScreen",
+      passProps: {
       }
     });
   }
@@ -83,21 +125,31 @@ export class Tab1 extends Component {
         <View>
           <Text style={{ backgroundColor: '#ccc' }}>{employeesData.emp_name.charAt(0)}</Text>
           <TouchableOpacity onPress={() => this.navigateNextPage(employeesData)}>
-            <View style={styles.setContainer}>
-              <View style={styles.empProfile}>
+            <View style={{ flexDirection: 'row', borderBottomColor: '#ccc', borderBottomWidth: 0.5 }}>
+              <View style={{ width: '20%', alignItems: 'center', justifyContent: 'center' }}>
                 <Image resizeMode={'contain'}
                   style={{ width: 50, height: 50 }}
                   source={employeesData.emp_photo_path}
                 />
               </View>
               <View style={{ width: '80%' }}>
-                <Text style={styles.empName}>{employeesData.emp_name}</Text>
-                <Text style={styles.empDesig}>{employeesData.emp_department},{employeesData.emp_designation}</Text>
-                <Text style={styles.empAddress}>{employeesData.emp_address}</Text>
+                <Text style={{ fontWeight: 'bold', fontSize: 20, paddingBottom: 10 }}>{employeesData.emp_name}</Text>
+                <Text style={{ fontSize: 18, paddingBottom: 10 }}>{employeesData.emp_department},{employeesData.emp_designation}</Text>
+                <Text style={{ fontSize: 18, paddingBottom: 10 }}>{employeesData.emp_address}</Text>
               </View>
             </View>
           </TouchableOpacity>
         </View>
+        // <View style={styles.SectionStylecardR}>
+        //      <View style={styles.profileviewStyle}>
+        //             <Image style={styles.imageiconStyle} source={employeesData.emp_photo_path} />
+        //       </View>
+        //     <View>
+        //     <Text style={styles.ProfileName}>{employeesData.emp_name}</Text>
+        //     <Text>{employeesData.emp_department} , {employeesData.emp_designation}</Text>
+        //     <Text>{employeesData.emp_address}</Text>
+        //     </View>
+        // </View>
       ));
     }
   }
@@ -105,10 +157,11 @@ export class Tab1 extends Component {
     const { SectionStyle, ImageStyle, btnLogin, Alphabet, AlphabetActive } = pagestyles;
     const { employeesData } = this.state;
     console.log("employees data==" + JSON.stringify(employeesData));
+    
     const filteredEmails = this.state.employeesData.filter(createFilter(this.state.searchTerm, KEYS_TO_FILTERS))
 
     return (
-      <View>
+           <View>
         <ScrollView>
 
           {/* Header Starts */}
@@ -116,10 +169,12 @@ export class Tab1 extends Component {
           <View style={{ flexDirection: 'row', margin: 10 }}>
             <View style={{ width: '90%' }}><Text style={{ textAlign: 'center', fontSize: 22 }}>Employee Directory</Text></View>
             <View style={{ width: '10%' }}>
+            <TouchableOpacity onPress={() => this.navigateLoginPage()}>
               <Image resizeMode={'contain'}
                 style={{ width: 30, height: 30 }}
                 source={require('../../../img/off.png')}
               />
+              </TouchableOpacity>
             </View>
           </View>
 
@@ -165,9 +220,9 @@ export class Tab1 extends Component {
                               />
                             </View>
                             <View style={{ width: '80%' }}>
-                              <Text style={styles.empName}>{employeesData.emp_name}</Text>
-                              <Text style={styles.empDesig}>{employeesData.emp_department},{employeesData.emp_designation}</Text>
-                              <Text style={styles.empAddress}>{employeesData.emp_address}</Text>
+                              <Text style={{ fontWeight: 'bold', fontSize: 20, paddingBottom: 10 }}>{employeesData.emp_name}</Text>
+                              <Text style={{ fontSize: 18, paddingBottom: 10 }}>{employeesData.emp_department},{employeesData.emp_designation}</Text>
+                              <Text style={{ fontSize: 18, paddingBottom: 10 }}>{employeesData.emp_address}</Text>
                             </View>
                           </View>
                         </TouchableOpacity>
@@ -262,6 +317,7 @@ export class Tab1 extends Component {
         </ScrollView>
 
       </View>
+    
     );
   }
 }
@@ -320,24 +376,6 @@ const pagestyles = StyleSheet.create({
     textTransform: 'uppercase',
     backgroundColor: 'steelblue', borderRadius: 10, color: '#fff'
   },
-
-  setContainer: {
-    flexDirection: 'row', borderBottomColor: '#ccc', borderBottomWidth: 0.5
-  },
-  empProfile: {
-    width: '20%', alignItems: 'center', justifyContent: 'center'
-  },
-  empName: {
-    fontWeight: 'bold', fontSize: 20, paddingBottom: 10 
-  },
-
-  empDesig: {
-    fontSize: 18, paddingBottom: 10
-  },
-
-  empAddress: {
-    fontSize: 18, paddingBottom: 10
-  }
 
 });
 

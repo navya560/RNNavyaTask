@@ -88,14 +88,17 @@ export class PageOne extends Component {
 
     render() {
         const { employeesData } = this.props;
-        const { tabsContainerStyle, tabStyle, activeTabStyle, tabTextStyle, activeTabTextStyle,topOpacity,setContainer } = styles;
+        const { tabsContainerStyle, tabStyle, NewUserFirstName, NewUserLastName, viewheaderStyle, touchiconviewstyle, headingtextStyle, imageiconStyle,
+            activeTabStyle, tabTextStyle, activeTabTextStyle, pickerStyle, mainView, SectionStyle, InputTextPadding, addlayoutbuttonNew, addButton,
+            buttonText, existingText,
+        } = styles;
         const { customStyleIndex } = this.state;
         return (
             <View>
 
                 {/* Header Starts */}
 
-                <View style={topOpacity}>
+                <View style={{ backgroundColor: 'rgba(0, 0, 0, 0.48)' }}>
                     <View style={{ flexDirection: 'row', margin: 10 }}>
                         <View style={{ width: '10%' }}>
                             <TouchableOpacity
@@ -107,6 +110,8 @@ export class PageOne extends Component {
                                 />
                             </TouchableOpacity>
                         </View>
+                        {/* <View style={{ width: '90%' }}><Text style={{ textAlign: 'center', fontSize: 22 }}>Employee Directory</Text></View> */}
+
                     </View>
                     {/* Header Starts */}
 
@@ -119,7 +124,7 @@ export class PageOne extends Component {
                             source={employeesData.emp_photo_path}
                         />
                     </View>
-                    <View style={setContainer}>
+                    <View style={{ padding: 20, backgroundColor: '#fff', marginTop: '20%' }}>
 
                         <View>
                             <SegmentedControlTab
@@ -177,9 +182,27 @@ export class PageOne extends Component {
                                 </View>
                             }
                         </View>
+                        {/* <View style={{flexDirection:'row'}}>
+                            <View style={{width:'50%',borderBottomColor:'#006699',borderBottomWidth:5}}><Text style={{textAlign:'center',fontSize:22}}>Details</Text></View>
+                            <View style={{width:'50%'}}><Text style={{textAlign:'center',fontSize:22}}>Hierarchy</Text></View>
+                        </View> */}
+
+                        {/* SubMainContainer Starts */}
+                        {/* 
+                            <View style={{marginTop:20,borderBottomColor:'#ccc',borderBottomWidth:1,marginBottom:10}}>
+                                <Text style={{fontSize:18, color:' #8c8989 '}}>Title</Text>
+                                <Text>VP, Product Management</Text>
+                            </View> */}
+
+                        {/* SubMainContainer Ends */}
                     </View>
                 </View>
                 {/* MainContainer Starts */}
+
+                {/* <TouchableOpacity onPress={()=> this.props.navigator.pop()}>
+                <Text>Back</Text>
+            </TouchableOpacity>
+            <Text>PageOne</Text> */}
             </View>
         );
     }
@@ -675,14 +698,6 @@ const styles = {
         fontSize: 15,
         color: '#fff',
     },
-
-    topOpacity: {
-        backgroundColor: 'rgba(0, 0, 0, 0.48)' 
-    },
-
-    setContainer: {
-        padding: 20, backgroundColor: '#fff', marginTop: '20%'
-    }
 
 };
 
